@@ -7,7 +7,6 @@
 최신 YOLO 모델을 Streamlit을 활용하여 웹 애플리케이션으로 구현해 보는 것입니다. 이를 통해 사용자가 쉽게 YOLO 모델을 경험하고 활용할 수 있도록 합니다.
 
 ## 🛠 기술 스택
-여기서는 프로젝트 구현을 위해 사용한 기술들을 나열합니다.
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 - <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 - <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
